@@ -1,6 +1,7 @@
 # Fetch-Api-Examples
 
-MDN Technical defintion:
+MDN (Mozzila Developers Network) Technical defintion:
+
 The Fetch API provides a JavaScript interface for accessing and manipulating parts of the HTTP pipeline, such as requests and responses. It also provides a global fetch() method that provides an easy, logical way to fetch resources asynchronously across the network.
 
 When calling the  Fetch API and passing it the URL we defined as a constant above and since no more parameters are set this is a simple GET request. Then we get a response but the response we get is not JSON but an object with a series of methods we can use depending on what we want to do with the information, these methods include:
